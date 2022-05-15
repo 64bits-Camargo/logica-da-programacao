@@ -97,11 +97,9 @@ inicio
     // retornos
     // -1 canal nao existe
     //  INDEX do canal cadastrado
-    
-    contador <- 1
-    achou_canal <- -1
 
-    para contador de contador ate 100 passo 1 faca
+    achou_canal <- -1
+    para contador de 1 ate 100 passo 1 faca
 
         se vetor_canais[contador] = numero_canal entao
             achou_canal <- contador
