@@ -28,6 +28,6 @@ Inicio
     escreva("expoente: ")
     leia(expoente)
 
-    escreval("Resultado: ",potencia(2, 4))
+    escreval("Resultado: ",potencia(base, exponte))
 
 Fimalgoritmo
